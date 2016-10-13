@@ -17,13 +17,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Tuvi\\EasyCut\\": "src"
+            "Tuvi\\": "src"
         },
         "classmap": ["src"]
     },
     "autoload-dev": {
         "psr-4": {
-            "Dara\\EasyCut\\Test\\": "tests"
+            "Tuvi\\Test\\": "tests"
         },
         "classmap": ["tests"]
     },

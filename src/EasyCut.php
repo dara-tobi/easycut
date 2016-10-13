@@ -1,7 +1,7 @@
 <?php
-namespace Tuvi\EasyCut;
+namespace Tuvi;
 
-use Tuvi\EasyCut\Exceptions\InvalidArrayException;
+use Tuvi\Exceptions\InvalidArrayException;
 
 class EasyCut
 {

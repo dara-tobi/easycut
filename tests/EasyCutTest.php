@@ -1,8 +1,8 @@
 <?php
 
-namespace Tuvi\EasyCut\Tests;
+namespace Tuvi\Tests;
 
-use Tuvi\EasyCut\EasyCut;
+use Tuvi\EasyCut;
 
 class EasyCutTest extends \PHPUnit_Framework_TestCase
 {
