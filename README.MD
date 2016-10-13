@@ -3,7 +3,7 @@
 ### About EasyCut
 ---
 
-EasyCut is a tiny toolkit for quickly cutting a simple or multidimensional array 
+EasyCut is a tiny toolkit for quickly cutting a simple or multidimensional array in php
 by specifying an index or a value that exists in the array. 
 
 ### Requirements
