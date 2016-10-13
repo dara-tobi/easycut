@@ -11,6 +11,9 @@ by specifying an index, a value or a key-value pair that exists in the array.
 - php
 - composer
 
+### Installation
+---
+In your terminal/command line, run `composer install tuvi/easycut`. Make sure you add `use Tuvi\EasyCut;` to the top of the file where you'll be using EasyCut
 ## Use cases
 #### 1 EasyCut for a simple array
 Using
